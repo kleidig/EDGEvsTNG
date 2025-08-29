@@ -1,5 +1,3 @@
-import numpy as np
-import h5py
 import os
 from hydrotools.interface import interface as iface_run
 from hydrotools.illustris import illustris_common as ils_com
